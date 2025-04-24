@@ -1,0 +1,14 @@
+[
+    {
+        "borrow_id": "BR00001",
+        "reader_id": "DG00073",
+        "borrow_date": "2025-04-23T17:04:16.637963",
+        "due_date": "2025-05-03T17:04:16.637963",
+        "documents": [
+            "TL001",
+            "TL002"
+        ],
+        "quantity": 2,
+        "status": "borrowed"
+    }
+]

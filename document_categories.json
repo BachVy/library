@@ -1,0 +1,17 @@
+[
+    {
+        "category_id": "DM001",
+        "name": "SÁCH GIÁO KHOA",
+        "description": "Sách giáo khoa các cấp"
+    },
+    {
+        "category_id": "DM002",
+        "name": "TIỂU THUYẾT",
+        "description": "Các thể loại tiểu thuyết"
+    },
+    {
+        "category_id": "DM003",
+        "name": "TÀI LIỆU THAM KHẢO",
+        "description": "Tài liệu nghiên cứu, tham khảo"
+    }
+]

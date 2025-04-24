@@ -1,0 +1,44 @@
+[
+    {
+        "timestamp": "2025-04-23T16:05:02.619701",
+        "action": "restore",
+        "doc_id": "TL001",
+        "details": "Khôi phục tài liệu: NHẬP MÔN LẬP TRÌNH"
+    },
+    {
+        "timestamp": "2025-04-23T16:55:30.371466",
+        "action": "update",
+        "doc_id": "TL001",
+        "details": "Cập nhật tài liệu: NHẬP MÔN LẬP TRÌNH - Thay đổi: DacBiet: False"
+    },
+    {
+        "timestamp": "2025-04-23T16:56:15.020703",
+        "action": "update",
+        "doc_id": "TL001",
+        "details": "Cập nhật tài liệu: NHẬP MÔN LẬP TRÌNH - Thay đổi: SoLuong: 40, DacBiet: False"
+    },
+    {
+        "timestamp": "2025-04-23T19:59:10.508954",
+        "action": "get_document_details",
+        "doc_id": "TL001",
+        "details": "Không tìm thấy tài liệu với doc_id: TL001"
+    },
+    {
+        "timestamp": "2025-04-23T19:59:22.416025",
+        "action": "get_document_details",
+        "doc_id": "TL001",
+        "details": "Không tìm thấy tài liệu với doc_id: TL001"
+    },
+    {
+        "timestamp": "2025-04-23T19:59:31.555705",
+        "action": "get_document_details",
+        "doc_id": "TL001",
+        "details": "Không tìm thấy tài liệu với doc_id: TL001"
+    },
+    {
+        "timestamp": "2025-04-23T20:05:36.938980",
+        "action": "get_document_details",
+        "doc_id": "TL001",
+        "details": "Không tìm thấy tài liệu với doc_id: TL001"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "timestamp": "2025-04-20T20:48:31.935574",
+        "action": "register",
+        "reader_id": "DG00073",
+        "details": "Đăng ký độc giả mới: Nguyen Van A"
+    },
+    {
+        "timestamp": "2025-04-20T20:48:31.942060",
+        "action": "borrow",
+        "reader_id": "DG00073",
+        "details": "Mượn sách BOOK001"
+    },
+    {
+        "timestamp": "2025-04-20T22:55:01.645302",
+        "action": "register",
+        "reader_id": "DG00074",
+        "details": "Đăng ký độc giả mới: Bạch Ngọc Vy"
+    },
+    {
+        "timestamp": "2025-04-20T22:55:40.917866",
+        "action": "borrow",
+        "reader_id": "DG00074",
+        "details": "Mượn sách 09001"
+    },
+    {
+        "timestamp": "2025-04-20T22:56:41.844070",
+        "action": "return",
+        "reader_id": "DG00074",
+        "details": "Trả sách 09001"
+    },
+    {
+        "timestamp": "2025-04-20T22:56:53.732580",
+        "action": "delete",
+        "reader_id": "DG00074",
+        "details": "Xóa độc giả: BẠCH NGỌC VY"
+    },
+    {
+        "timestamp": "2025-04-23T14:22:10.253762",
+        "action": "renew",
+        "reader_id": "DG00059",
+        "details": "Gia hạn tài khoản: NGUYỄN KIM NGÂN"
+    },
+    {
+        "timestamp": "2025-04-23T14:22:10.255778",
+        "action": "notification",
+        "reader_id": "DG00059",
+        "details": "Gửi thông báo: account_renewed - Tài khoản của bạn đã được gia hạn thành công!"
+    },
+    {
+        "timestamp": "2025-04-23T14:22:39.173781",
+        "action": "delete",
+        "reader_id": "DG00059",
+        "details": "Xóa độc giả: NGUYỄN KIM NGÂN"
+    },
+    {
+        "timestamp": "2025-04-23T14:29:29.819162",
+        "action": "delete",
+        "reader_id": "DG00060",
+        "details": "Xóa độc giả: TRẦN VĂN LIỆT"
+    },
+    {
+        "timestamp": "2025-04-23T17:04:16.650269",
+        "action": "borrow",
+        "reader_id": "DG00073",
+        "details": "Mượn sách TL001"
+    },
+    {
+        "timestamp": "2025-04-23T17:04:16.654053",
+        "action": "notification",
+        "reader_id": "DG00073",
+        "details": "Gửi thông báo: book_borrowed - Bạn đã mượn sách TL001. Ngày trả: 2025-05-03T17:04:16.637963"
+    },
+    {
+        "timestamp": "2025-04-23T17:04:16.657014",
+        "action": "borrow",
+        "reader_id": "DG00073",
+        "details": "Mượn sách TL002"
+    },
+    {
+        "timestamp": "2025-04-23T17:04:16.657014",
+        "action": "notification",
+        "reader_id": "DG00073",
+        "details": "Gửi thông báo: book_borrowed - Bạn đã mượn sách TL002. Ngày trả: 2025-05-03T17:04:16.637963"
+    }
+]
